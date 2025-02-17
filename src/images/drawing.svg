@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="210mm"
+   height="297mm"
+   viewBox="0 0 210 297"
+   version="1.1"
+   id="svg1"
+   inkscape:version="1.4 (86a8ad7, 2024-10-11)"
+   sodipodi:docname="drawing.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview1"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:document-units="mm"
+     inkscape:zoom="0.98"
+     inkscape:cx="396.42857"
+     inkscape:cy="118.87755"
+     inkscape:window-width="1920"
+     inkscape:window-height="1129"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer1" />
+  <defs
+     id="defs1">
+    <rect
+       x="155.10204"
+       y="101.02041"
+       width="236.7347"
+       height="54.081632"
+       id="rect8" />
+  </defs>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <rect
+       style="opacity:1;fill:#d3d3d3;fill-opacity:1;stroke-width:0.194515"
+       id="rect6"
+       width="17.332439"
+       height="18.033804"
+       x="21.391996"
+       y="25.459831"
+       ry="4.7165322" />
+    <text
+       xml:space="preserve"
+       style="font-style:italic;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:12.7px;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold Italic';text-align:start;letter-spacing:2.52677px;word-spacing:0.669396px;writing-mode:lr-tb;direction:ltr;text-anchor:start;white-space:pre;inline-size:30.4138;opacity:0.932624;fill:#d3d3d3;fill-opacity:1;stroke-width:0.28657"
+       x="26.929165"
+       y="36.310833"
+       id="text7"
+       transform="matrix(0.92327198,0,0,1.0831045,0.53996599,0)"><tspan
+         x="26.929165"
+         y="36.310833"
+         id="tspan2"><tspan
+           style="font-weight:600;font-family:'Bookman Old Style';-inkscape-font-specification:'Bookman Old Style Semi-Bold Italic';fill:#0071fc"
+           id="tspan1">B</tspan></tspan></text>
+    <text
+       xml:space="preserve"
+       transform="matrix(0.26458333,0,0,0.26458333,1.889881,1.349915)"
+       id="text8"
+       style="font-style:italic;font-variant:normal;font-weight:600;font-stretch:normal;font-size:48px;font-family:'Bookman Old Style';-inkscape-font-specification:'Bookman Old Style Semi-Bold Italic';text-align:start;letter-spacing:9.55px;word-spacing:2.53px;writing-mode:lr-tb;direction:ltr;white-space:pre;shape-inside:url(#rect8);opacity:1;fill:#0071fc;fill-opacity:1"><tspan
+         x="155.10156"
+         y="143.61828"
+         id="tspan4"><tspan
+           style="fill:#0061fc"
+           id="tspan3">Blocky</tspan></tspan></text>
+  </g>
+</svg>
