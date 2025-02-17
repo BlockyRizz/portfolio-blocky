@@ -17,7 +17,7 @@
       </tspan>
     </text>
     <text xml:space="preserve" style="font-style:italic;font-weight:600;font-size:151.181px;font-family:'Bookman Old Style';-inkscape-font-specification:'Bookman Old Style Semi-Bold Italic';text-align:start;letter-spacing:15.1462px;word-spacing:4.01253px;writing-mode:lr-tb;direction:ltr;text-anchor:start;fill:#303031;fill-opacity:1;stroke-width:1.58599" x="695.13177" y="206.74849" id="text11" transform="scale(0.76649955,1.3046322)">
-      <tspan sodipodi:role="line" id="tspan11" x="695.13177" y="206.74849" style="font-size:151.181px;stroke-width:1.58599">locky</tspan>
+      <tspan id="tspan11" x="695.13177" y="206.74849" style={{ fontSize: "151.181px", strokeWidth: "1.58599" }}>locky</tspan>
     </text>
   </g>
 </svg>
